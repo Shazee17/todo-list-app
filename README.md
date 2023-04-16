@@ -19,4 +19,7 @@ This is a simple Todo-List app built with Vite and React that allows you to keep
 3. Run the app locally using `npm run dev` or `yarn dev`.
 4. Open the app in your web browser and start adding, deleting, and marking tasks as completed.
 
+## Demo
+A live demo of the app can be found [here](https://shazee17.github.io/todo-list-app/).
+
 
