@@ -31,6 +31,12 @@
     box-shadow: 0 15px 25px rgba(0,0,0,.6);
 }
 
+.todo-container{
+    max-height: 300px;
+    overflow-y: auto;
+    width: 100%;
+}
+
 .container h1{
     padding-block: 30px;
     color: #1d5392;
