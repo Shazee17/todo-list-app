@@ -28,7 +28,7 @@ const TodoForm = ({ addTodo }) => {
           type="text"
           className="input"
           value={value}
-          placeholder="Add new task"
+          placeholder="What do you have todo?"
           onChange={(e) => {
             setValue(e.target.value),
             setIsEmpty(false)
@@ -36,7 +36,7 @@ const TodoForm = ({ addTodo }) => {
         />
 
         <button title="Add" type="submit" className="submit-btn">
-          <img src={plusIcon} alt="plus-icon" className="plus-icon" />
+          Add
         </button>
       </form>
 
