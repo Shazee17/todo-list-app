@@ -45,7 +45,7 @@ const TodoContainer = () => {
       <div className="form-container">
         <small>Good <span>{greeting}!</span></small>
         <h1>
-          Todo
+          TodoList
         </h1>
         <small>{day}</small>
         <TodoForm className="todo-form" addTodo={addTodo} />

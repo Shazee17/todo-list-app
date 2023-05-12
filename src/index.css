@@ -16,8 +16,8 @@
     align-items: center;
     min-height: 100vh;
     font-family: var(--DM-Sans);
-    background: rgb(131,58,180);
-    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(196,53,53,1) 0%, rgba(135,77,77,1) 100%, rgba(212,212,212,1) 100%);
+    background: rgb(45, 44, 45);
+    background: linear-gradient(90deg, rgb(110, 110, 110) 0%);
 }
 
 .container{
